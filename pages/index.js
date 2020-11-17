@@ -4,7 +4,7 @@ export default function Home() {
 
   return (
     <div className={`${styles.red}`}>
-      Hello Nex.js
+      Hello Next.js
     </div>
   )
 }
